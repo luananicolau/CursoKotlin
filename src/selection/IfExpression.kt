@@ -1,0 +1,14 @@
+package selection
+
+fun main(){
+
+    val n = 10
+
+    val r = if (n % 2 == 0){
+        "Par"
+    } else {
+        println("impar")
+        "Impar"
+    }
+    println(r)
+}
