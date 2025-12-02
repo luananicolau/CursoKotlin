@@ -1,4 +1,4 @@
-package inheritance
+package main.kotlin.inheritance
 
 fun main(){
 

@@ -1,4 +1,4 @@
-package inheritance
+package main.kotlin.inheritance
 
 abstract class Animal(
     val color: String
